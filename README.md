@@ -1,5 +1,6 @@
+<img src="https://media.istockphoto.com/photos/magnifying-glass-examining-beef-steak-picture-id501251724?k=6&m=501251724&s=170667a&w=0&h=U8qPmnFM1UJHUwgkmVUdoVTPqB08UBGJKVYT8ANxvjA=" width=194 height=142>
+
 # Show Me The Meat!
-![Show Me the Meat](https://previews.123rf.com/images/putracetol/putracetol1706/putracetol170601174/80612508-an-illustration-of-a-magnifying-glass-with-fork-and-spoon-symbol-food-icon-logo-design-element.jpg)
 
 A quick and easy JavaScript extension that skips straight to the recipe page, avoiding all the unneccesary preamble!
 

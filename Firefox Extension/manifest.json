@@ -1,0 +1,23 @@
+{
+
+    "manifest_version": 2,
+    "name": "Show Me the Meat",
+    "version": "1.1",
+  
+    "description": "Jumps straight to a recipe section of a webpage (if it exists), skipping past all the (usually) unneccesary preamble",
+  
+    "icons": {
+      "96": "icons/mg.png"
+    },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/tb.png",
+        "default_title": "Show Me the Meat",
+        "default_popup": "popup/rf.html"
+    }
+  
+  }

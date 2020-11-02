@@ -1,0 +1,23 @@
+{
+
+    "manifest_version": 2,
+    "name": "RecipEase",
+    "version": "1.1",
+  
+    "description": "Jumps straight to a recipe section of a webpage (if it exists), skipping past all the unneccesary fluff",
+  
+    "icons": {
+      "96": "icons/mg.png"
+    },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "icons/tb.png",
+        "default_title": "RecipEaze",
+        "default_popup": "popup/rf.html"
+    }
+  
+  }

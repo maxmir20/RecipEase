@@ -6,4 +6,4 @@ A quick and easy JavaScript extension that skips straight to the recipe/ingredie
 
 Firefox Add-On: [Link](https://addons.mozilla.org/en-US/firefox/addon/show-me-the-meat/)
 
-Chrome Add-On: In progress!
+Chrome Add-On: [Link](https://chrome.google.com/webstore/detail/recipease/mgmogjgehheiphlbehofibchnbpomidi) 

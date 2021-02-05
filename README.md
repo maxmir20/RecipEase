@@ -4,6 +4,6 @@
 
 A quick and easy JavaScript extension that skips straight to the recipe/ingredients list, avoiding all the unneccesary preamble!
 
-Firefox Add-On: [Link](https://addons.mozilla.org/en-US/firefox/addon/show-me-the-meat/)
+Firefox Add-On: [Link](https://addons.mozilla.org/en-US/firefox/addon/recipease/)
 
 Chrome Add-On: [Link](https://chrome.google.com/webstore/detail/recipease/mgmogjgehheiphlbehofibchnbpomidi) 
